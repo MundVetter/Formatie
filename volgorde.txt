@@ -1,0 +1,25 @@
+Volgorde x: 1e voorkeur -> 2e voorkeur -> 3e voorkeur -> 4e voorkeur
+Volgorde 0: alleen Dimitry -> alleen Felix -> geen van beide -> Dimitry en Felix
+Volgorde 1: alleen Dimitry -> alleen Felix -> Dimitry en Felix -> geen van beide
+Volgorde 2: alleen Dimitry -> geen van beide -> alleen Felix -> Dimitry en Felix
+Volgorde 3: alleen Dimitry -> geen van beide -> Dimitry en Felix -> alleen Felix
+Volgorde 4: alleen Dimitry -> Dimitry en Felix -> alleen Felix -> geen van beide
+Volgorde 5: alleen Dimitry -> Dimitry en Felix -> geen van beide -> alleen Felix
+Volgorde 6: alleen Felix -> alleen Dimitry -> geen van beide -> Dimitry en Felix
+Volgorde 7: alleen Felix -> alleen Dimitry -> Dimitry en Felix -> geen van beide
+Volgorde 8: alleen Felix -> geen van beide -> alleen Dimitry -> Dimitry en Felix
+Volgorde 9: alleen Felix -> geen van beide -> Dimitry en Felix -> alleen Dimitry
+Volgorde 10: alleen Felix -> Dimitry en Felix -> alleen Dimitry -> geen van beide
+Volgorde 11: alleen Felix -> Dimitry en Felix -> geen van beide -> alleen Dimitry
+Volgorde 12: geen van beide -> alleen Dimitry -> alleen Felix -> Dimitry en Felix
+Volgorde 13: geen van beide -> alleen Dimitry -> Dimitry en Felix -> alleen Felix
+Volgorde 14: geen van beide -> alleen Felix -> alleen Dimitry -> Dimitry en Felix
+Volgorde 15: geen van beide -> alleen Felix -> Dimitry en Felix -> alleen Dimitry
+Volgorde 16: geen van beide -> Dimitry en Felix -> alleen Dimitry -> alleen Felix
+Volgorde 17: geen van beide -> Dimitry en Felix -> alleen Felix -> alleen Dimitry
+Volgorde 18: Dimitry en Felix -> alleen Dimitry -> alleen Felix -> geen van beide
+Volgorde 19: Dimitry en Felix -> alleen Dimitry -> geen van beide -> alleen Felix
+Volgorde 20: Dimitry en Felix -> alleen Felix -> alleen Dimitry -> geen van beide
+Volgorde 21: Dimitry en Felix -> alleen Felix -> geen van beide -> alleen Dimitry
+Volgorde 22: Dimitry en Felix -> geen van beide -> alleen Dimitry -> alleen Felix
+Volgorde 23: Dimitry en Felix -> geen van beide -> alleen Felix -> alleen Dimitry

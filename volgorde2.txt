@@ -1,0 +1,65 @@
+Volgorde x: 1e voorkeur -> 2e voorkeur -> 3e voorkeur -> 4e voorkeur
+Volgorde 0: alleen Dimitry
+Volgorde 1: alleen Felix
+Volgorde 2: geen van beide
+Volgorde 3: Dimitry en Felix
+Volgorde 4: alleen Dimitry -> alleen Felix
+Volgorde 5: alleen Dimitry -> geen van beide
+Volgorde 6: alleen Dimitry -> Dimitry en Felix
+Volgorde 7: alleen Felix -> alleen Dimitry
+Volgorde 8: alleen Felix -> geen van beide
+Volgorde 9: alleen Felix -> Dimitry en Felix
+Volgorde 10: geen van beide -> alleen Dimitry
+Volgorde 11: geen van beide -> alleen Felix
+Volgorde 12: geen van beide -> Dimitry en Felix
+Volgorde 13: Dimitry en Felix -> alleen Dimitry
+Volgorde 14: Dimitry en Felix -> alleen Felix
+Volgorde 15: Dimitry en Felix -> geen van beide
+Volgorde 16: alleen Dimitry -> alleen Felix -> geen van beide
+Volgorde 17: alleen Dimitry -> alleen Felix -> Dimitry en Felix
+Volgorde 18: alleen Dimitry -> geen van beide -> alleen Felix
+Volgorde 19: alleen Dimitry -> geen van beide -> Dimitry en Felix
+Volgorde 20: alleen Dimitry -> Dimitry en Felix -> alleen Felix
+Volgorde 21: alleen Dimitry -> Dimitry en Felix -> geen van beide
+Volgorde 22: alleen Felix -> alleen Dimitry -> geen van beide
+Volgorde 23: alleen Felix -> alleen Dimitry -> Dimitry en Felix
+Volgorde 24: alleen Felix -> geen van beide -> alleen Dimitry
+Volgorde 25: alleen Felix -> geen van beide -> Dimitry en Felix
+Volgorde 26: alleen Felix -> Dimitry en Felix -> alleen Dimitry
+Volgorde 27: alleen Felix -> Dimitry en Felix -> geen van beide
+Volgorde 28: geen van beide -> alleen Dimitry -> alleen Felix
+Volgorde 29: geen van beide -> alleen Dimitry -> Dimitry en Felix
+Volgorde 30: geen van beide -> alleen Felix -> alleen Dimitry
+Volgorde 31: geen van beide -> alleen Felix -> Dimitry en Felix
+Volgorde 32: geen van beide -> Dimitry en Felix -> alleen Dimitry
+Volgorde 33: geen van beide -> Dimitry en Felix -> alleen Felix
+Volgorde 34: Dimitry en Felix -> alleen Dimitry -> alleen Felix
+Volgorde 35: Dimitry en Felix -> alleen Dimitry -> geen van beide
+Volgorde 36: Dimitry en Felix -> alleen Felix -> alleen Dimitry
+Volgorde 37: Dimitry en Felix -> alleen Felix -> geen van beide
+Volgorde 38: Dimitry en Felix -> geen van beide -> alleen Dimitry
+Volgorde 39: Dimitry en Felix -> geen van beide -> alleen Felix
+Volgorde 40: alleen Dimitry -> alleen Felix -> geen van beide -> Dimitry en Felix
+Volgorde 41: alleen Dimitry -> alleen Felix -> Dimitry en Felix -> geen van beide
+Volgorde 42: alleen Dimitry -> geen van beide -> alleen Felix -> Dimitry en Felix
+Volgorde 43: alleen Dimitry -> geen van beide -> Dimitry en Felix -> alleen Felix
+Volgorde 44: alleen Dimitry -> Dimitry en Felix -> alleen Felix -> geen van beide
+Volgorde 45: alleen Dimitry -> Dimitry en Felix -> geen van beide -> alleen Felix
+Volgorde 46: alleen Felix -> alleen Dimitry -> geen van beide -> Dimitry en Felix
+Volgorde 47: alleen Felix -> alleen Dimitry -> Dimitry en Felix -> geen van beide
+Volgorde 48: alleen Felix -> geen van beide -> alleen Dimitry -> Dimitry en Felix
+Volgorde 49: alleen Felix -> geen van beide -> Dimitry en Felix -> alleen Dimitry
+Volgorde 50: alleen Felix -> Dimitry en Felix -> alleen Dimitry -> geen van beide
+Volgorde 51: alleen Felix -> Dimitry en Felix -> geen van beide -> alleen Dimitry
+Volgorde 52: geen van beide -> alleen Dimitry -> alleen Felix -> Dimitry en Felix
+Volgorde 53: geen van beide -> alleen Dimitry -> Dimitry en Felix -> alleen Felix
+Volgorde 54: geen van beide -> alleen Felix -> alleen Dimitry -> Dimitry en Felix
+Volgorde 55: geen van beide -> alleen Felix -> Dimitry en Felix -> alleen Dimitry
+Volgorde 56: geen van beide -> Dimitry en Felix -> alleen Dimitry -> alleen Felix
+Volgorde 57: geen van beide -> Dimitry en Felix -> alleen Felix -> alleen Dimitry
+Volgorde 58: Dimitry en Felix -> alleen Dimitry -> alleen Felix -> geen van beide
+Volgorde 59: Dimitry en Felix -> alleen Dimitry -> geen van beide -> alleen Felix
+Volgorde 60: Dimitry en Felix -> alleen Felix -> alleen Dimitry -> geen van beide
+Volgorde 61: Dimitry en Felix -> alleen Felix -> geen van beide -> alleen Dimitry
+Volgorde 62: Dimitry en Felix -> geen van beide -> alleen Dimitry -> alleen Felix
+Volgorde 63: Dimitry en Felix -> geen van beide -> alleen Felix -> alleen Dimitry
